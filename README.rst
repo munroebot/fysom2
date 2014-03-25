@@ -4,12 +4,13 @@ fysom2 - More pythonic fysom
 What is fysom2?
 ---------------
 
-fysom2 is a Python implementation of `finate state machine<http://en.wikipedia.org/wiki/Finite-state_machine>`_.
-Inspired by `javascript-state-machine<https://github.com/jakesgordon/javascript-state-machine>`_,
-Mansour Behabadi ported it to python which becomes the original fysom project,
-then Maximilien Riehl fork and enhance it with unitests and coverage statistic,
-make it reliable and accessable on pypi. And finally, this one is the successor
-of all the three projects above.
+fysom2 is a Python implementation of `finate state machine <http://en.wikipedia.org/wiki/Finite-state_machine>`_.
+Inspired by `javascript-state-machine <https://github.com/jakesgordon/javascript-state-machine>`_,
+Mansour Behabadi ported it to python which becomes the original `fysom <https://github.com/oxplot/fyso://github.com/oxplot/fysom>`_
+project, then Maximilien Riehl `fork <https://github.com/mriehl/fysom>`_
+and enhance it with unitests and coverage statistic,
+make it more reliable and accessable on pypi. And finally,
+this one is the successor of all the three projects above.
 
 
 Why bother another fork?
@@ -26,4 +27,4 @@ to use and read.
 The differences
 ---------------
 
-__this part will be written after the project finishs__
+*this part will be written after the project finishs*
